@@ -39,9 +39,9 @@ body {
     font-weight: 700;
     color: #fff;
     font-family: sans-serif;
-    /* background: linear-gradient(90deg, #00dbde, #fc00ff); */
+    background: linear-gradient(90deg, #00dbde, #fc00ff);
     -webkit-background-clip: text;
-    /* -webkit-text-fill-color: transparent; */
+    -webkit-text-fill-color: transparent;
     animation: animate 5s linear infinite;
 }
 
@@ -59,7 +59,7 @@ body {
     width: 200px;
     color: #ffffff;
     text-align: center;
-    border: 4px double #cccccc;
+    border: 4px groove #cccccc;
     border-radius: 10px;
     font-size: 28px;
     font-family: sans-serif;
@@ -71,6 +71,15 @@ body {
 
 button:hover {
     background-color: #2C3E50;
+}
+
+.square {
+    height: 100%;
+    width: 50px;
+    background-color: #555;
+    flex-wrap: wrap;
+    opacity: .5;
+    
 }
 
 @keyframes gradient {

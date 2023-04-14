@@ -3,12 +3,12 @@ let clicks = 0;
 
 // Retrieve the click count from local storage if it exists
 function initClicks() {
-    let clickStr = localStorage.getItem("clicks");
-    if (clickStr == undefined) {
+    let currClicks = localStorage.getItem("clicks");
+    if (currClicks == undefined) {
         localStorage.setItem("clicks", 0);
         clicks = 0;
     } else {
-        clicks = parseInt(clickStr);   
+        clicks = parseInt(currClicks);   
     }
     document.getElementById("clicks").innerHTML = clicks;
 }
