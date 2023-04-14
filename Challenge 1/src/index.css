@@ -73,15 +73,6 @@ button:hover {
     background-color: #2C3E50;
 }
 
-.square {
-    height: 100%;
-    width: 50px;
-    background-color: #555;
-    flex-wrap: wrap;
-    opacity: .5;
-    
-}
-
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
