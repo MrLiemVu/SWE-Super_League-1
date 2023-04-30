@@ -19,7 +19,7 @@ Source: https://www.lighthall.co/class/85e923a3-534b-47ed-a8d8-b4440b4a1ad4
 ## Challenge 1
 
 ### :computer: Technologies Used
-HTML, CSS, JS, React.js, Vercel
+HTML, CSS, JS, React.js, Vercel, Git
 
 ### :link: Link
 https://buttoncounter.vercel.app/
@@ -37,7 +37,7 @@ You can earn bonus points for showing on the web page the distribution of clicks
 ## Challenge 2
 
 ### :computer: Technologies Used
-HTMLS, CSS, JS, React.js, Node.js, MongoDB, Vercel
+HTMLS, CSS, JS, React.js, Node.js, MongoDB, Vercel, Git
 
 ### :link: Link
 hilarious-sawine-4fe3d2.netlify.app/
@@ -65,7 +65,7 @@ As a user, I should be able to access my tasks from any device – that means, t
 ## Challenge 3
 
 ### :computer: Technologies Used
-HTML, CSS, Typescript, Node.JS, Vite, MongoDB, Vercel, Railway
+HTML, CSS, Typescript, Node.JS, Vite, MongoDB, Vercel, Railway, Git
 
 ### :link: Link
 https://sesl-1-challenge-3.vercel.app/
