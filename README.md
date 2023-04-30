@@ -1,4 +1,4 @@
-# LightHall-Challenge
+# Software Engineering Super League 1 (SES1) by Lighthall
 
 ### Summary:
 The Software Engineering Super League is a SWE competition based on web development. Prior to entering this competition, I had no experience in building websites. However, throughout this time I learned a variety of web development technologies and implemented them to advance through the final stage of the competition and finish in top 50 out of 1600 competitors.
