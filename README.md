@@ -85,21 +85,3 @@ For this project, we want you to:
 2. Display a leaderboard (stored on server side)
 
 3. Ability for the user to set the word for a single session and give the link to somebody else to play it
-
-## Challenge 4
-
-### :computer: Technologies Used
-
-### :link: Link
-
-### :newspaper: Description
-
-
-## Challenge 5
-
-### :computer: Technologies Used
-
-### :link: Link
-
-### :newspaper: Description
-
